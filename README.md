@@ -32,7 +32,5 @@
   <a href="mailto:rafaelaccdfranca@outlook.com" title="Outlook">
   <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&labelColor=0078D4&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
 </a>
-  <a href="https://instagram.com/rafaaacampelo" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+
 </p>
