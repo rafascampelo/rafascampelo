@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Linguagens:</strong> JavaScript, Python, SQL, C#, PHP
+  🦄 <strong>Linguagens:</strong> JavaScript, Python, MySQL, C#, PHP
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas:</strong> TypeScript, React, Next.js, .NET, Tailwind CSS, MySQL, Git, VSCode
+  💼 <strong>Ferramentas:</strong> TypeScript, React, Next.js, .NET, Tailwind CSS, Workbench, Git, VSCode
 </p>
 
 <p align="left">
