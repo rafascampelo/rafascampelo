@@ -7,14 +7,7 @@
   🚀 Vem comigo nessa jornada tech!
 </p>
 
-<p align="left">
-  🦄 <strong>Linguagens:</strong> JavaScript, Python, MySQL, C#, PHP
-</p>
-
-<p align="left">
-  💼 <strong>Ferramentas:</strong> TypeScript, React, Next.js, .NET, Tailwind CSS, Workbench, Git, VSCode
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,cs,dotnet,php,mysql,tailwind)](https://skillicons.dev)
 <p align="left">
   💌 <strong>Quer trocar uma ideia ou colab? Me chama aqui:</strong> ⤵️
 </p>
