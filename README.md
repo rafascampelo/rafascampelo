@@ -3,7 +3,7 @@
 <p align="left"> 
   Olá! Eu sou a <strong>Rafaela</strong>, mas pode me chamar de <strong>Rafa</strong> 😄<br>
   Desenvolvedor de sistemas, apaixonada por transformar ideias em código!<br>
-  📚 Atualmente estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na UMC, estou estagiando em engenharia de software no Banco Itaú <br> e explorando projetos autorais nas horas vagas.<br>
+  📚 Atualmente estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na UMC, <strong>estou estagiando em engenharia de software no Banco Itaú</strong> <br> e explorando projetos autorais nas horas vagas.<br>
   🚀 Vem comigo nessa jornada tech!
 </p>
 
