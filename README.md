@@ -2,12 +2,12 @@
 
 <p align="left"> 
   Olá! Eu sou a <strong>Rafaela</strong>, mas pode me chamar de <strong>Rafa</strong> 😄<br>
-  Desenvolvedor de sistemas, apaixonada por transformar ideias em código!<br>
+  Dev FrontEnd apaixonada por transformar ideias em código!<br>
   📚 Atualmente estou estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na UMC, <br> E estagiando no <strong>Itaú em engenharia de software</strong>. <br> Nas horas vagas exploro projetos autorais.<br>
   🚀 Vem comigo nessa jornada tech!
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,angular,react,nextjs,sass,tailwind,py,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,react,nextjs,sass,tailwind)](https://skillicons.dev)
 <p align="left">
   💌 <strong>Quer trocar uma ideia ou colab? Me chama aqui:</strong> ⤵️
 </p>
