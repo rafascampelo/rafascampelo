@@ -2,8 +2,8 @@
 
 <p align="left"> 
   Olá! Eu sou a <strong>Rafaela</strong>, mas pode me chamar de <strong>Rafa</strong> 😄<br>
-  Dev FrontEnd apaixonada por transformar ideias em código!<br>
-  📚 Atualmente estou estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na UMC, <br> E estagiando no <strong>Itaú em engenharia de software</strong>. <br> Nas horas vagas exploro projetos autorais.<br>
+  Dev Fullstack apaixonada por transformar ideias em código!<br>
+  📚 Atualmente estou estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na UMC <br> E <strong> sou Dev Junior no Itaú em engenharia de software</strong>. <br> Nas horas vagas exploro projetos autorais.<br>
   🚀 Vem comigo nessa jornada tech!
 </p>
 
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:rafaela.campelo06@gmail.com" title="Gmail">
+  <a href="mailto:rafaccdfranca@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/rafaela-campelo-7a6008303/" title="LinkedIn">
