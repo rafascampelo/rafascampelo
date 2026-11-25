@@ -7,7 +7,7 @@
   🚀 Vem comigo nessa jornada tech!
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,react,nextjs,sass,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,py,ts,dotnet,c#)](https://skillicons.dev)
 <p align="left">
   💌 <strong>Quer trocar uma ideia ou colab? Me chama aqui:</strong> ⤵️
 </p>
