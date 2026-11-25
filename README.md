@@ -3,7 +3,7 @@
 <p align="left"> 
   Olá! Eu sou a <strong>Rafaela</strong>, mas pode me chamar de <strong>Rafa</strong> 😄<br>
   Dev Fullstack apaixonada por transformar ideias em código!<br>
-  📚 Atualmente estou estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na UMC <br> E <strong> sou Dev Junior no Itaú em engenharia de software</strong>. <br> Nas horas vagas exploro projetos autorais.<br>
+  📚 Atualmente estou estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na UMC <br> E atualmente sou <strong> Engenheira de software Jr no Itaú Unibanco</strong>. <br> Nas horas vagas exploro projetos autorais.<br>
   🚀 Vem comigo nessa jornada tech!
 </p>
 
